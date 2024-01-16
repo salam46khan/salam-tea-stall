@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Milk tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 2,
+        "name": "Black tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 3,
+        "name": "Masala tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 4,
+        "name": "Green tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 5,
+        "name": "Leamon tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 6,
+        "name": "Gold tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 7,
+        "name": "Leaf tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    },
+    {
+        "id": 8,
+        "name": "Red Dust (RD) Tea",
+        "front-img": "../src/assets/photo/blck-tea-front.jpg",
+        "back-img": "../src/assets/photo/back-black-tea.png",
+        "price": 50,
+        "company": "Ispahani Mirzapur"
+    }
+]

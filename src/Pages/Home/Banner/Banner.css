@@ -1,0 +1,8 @@
+.banner{
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(#0008 , #0006), url(../../../assets/photo/banner-bg.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

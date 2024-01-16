@@ -1,0 +1,8 @@
+.homeContent{
+    width: 100%;
+    /* color: aqua; */
+    background: linear-gradient(#0006, #0007), url(../../assets/photo/nbg.png);
+    background-position: top;
+    background-repeat: repeat-y;
+    background-size: contain;
+}
